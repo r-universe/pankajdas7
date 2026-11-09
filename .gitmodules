@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "QuadRoot"]
+	path = QuadRoot
+	url = https://github.com/cran/QuadRoot
 [submodule "neutroSurvey"]
 	path = neutroSurvey
 	url = https://github.com/cran/neutroSurvey
